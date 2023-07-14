@@ -17,18 +17,18 @@ Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 
 # Escolha de Componentes
 
-| Quantidade  | Componente  | Especificações   | Valor  |
+| Quantidade  | Componente  | Valor  |
 |---|---|---|---|
-| 1 | Transformador |Trafo Bivolt 18+18v 200mA|R$27,99|
-| 1 | Ponte de Diodos | Ponte Retificadora KBPC1010 |R$3,67| 
-| 1 | Capacitor |560µF, 25V|R$1,10|
-| 1 | LED |Vermelho 3V - 3,3V 30mA|R$0,70|
-| 2x | Diodo Zener |1N4743 [13V / 1W]|R$0,19|
-| 1 | Potenciômetro |10000Ω|R$1,61|
-| 1 | Resistor 680 |680Ω +/-5%, 2W|R$0,38|
-| 1 | Resistor 1k |1000Ω +/-5%, 1W|R$0,18|
-| 1 | Resistor 3k9 |3900Ω +/-5%, 2W|R$0,38|
-| Total | | |R$36,20|
+| 1 | Transformador |R$27,99|
+| 1 | Ponte de Diodos |R$3,67| 
+| 1 | Capacitor |R$1,10|
+| 1 | LED |R$0,70|
+| 2x | Diodo Zener |R$0,19|
+| 1 | Potenciômetro |R$1,61|
+| 1 | Resistor 680 |R$0,38|
+| 1 | Resistor 1k |R$0,18|
+| 1 | Resistor 3k9 R$0,38|
+| Total  |R$36,20|
 
 
 # Projeto Esquemático do PCB no Software Eagle
