@@ -66,4 +66,36 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 # Projeto Esquemático do PCB no Software Eagle
 ![Esquema do Eagle](imagens/eagle_circuito.jpg "Esquema do Eagle")
 
+Contas
+Tensão
+Tensão da entrada da fonte: 
+
+Tensão de pico da entrada da fonte: 
+
+Razão transformador: 
+
+Tensão pico após transformador: 
+
+Tensão pico após diodos: 
+
+Ripple de 10%: 
+
+Tensão mínima no circuito: 
+
+Tensão média: 
+
+Corrente
+Corrente carga: 
+
+Corrente LED: 
+
+Corrente Zener: 
+
+Corrente potenciometro: 
+
+Corrente total: 
+
+Capacitor
+C = () / () = 
+
 
