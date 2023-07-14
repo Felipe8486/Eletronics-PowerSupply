@@ -45,7 +45,7 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 
 [Link para o circuito no Falstad](https://tinyurl.com/yengesgj) 
 
-## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
+## :heavy_dollar_sign: Preço dos componentes:
 
 
 | Quantidade | Componente          | Valor   |
