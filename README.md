@@ -9,13 +9,44 @@ O projeto solicitado na disciplina de [SSC0180] – Eletrônica para Computaçã
 # Objetivo
 Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capacidade de 100mA.
 
+## &#128161; Componentes utilizados:
+
+* Transformador:
+
+É um componente que muda a tensão elétrica em um circuito. Ele pode aumentar ou diminuir o valor da tensão, dependendo das necessidades do circuito.
+
+* Ponte de diodo:
+
+É um dispositivo usado para converter corrente alternada em corrente contínua. Ele retifica a corrente, permitindo que o circuito seja alimentado em ambas as direções da corrente alternada.
+
+* Capacitor:
+
+É um componente que armazena cargas elétricas. Ele é usado para acumular energia elétrica e liberá-la quando necessário.
+
+* Diodo de Zener:
+
+É um tipo especial de diodo que é usado para regular a tensão em um circuito. Ele mantém a tensão constante em um valor específico, mesmo quando ocorrem variações.
+
+* Resistores:
+
+São componentes usados para controlar o fluxo de corrente elétrica em um circuito. Eles limitam ou ajustam a quantidade de corrente que flui em um determinado caminho.
+
+* Potenciômetro:
+
+É um componente de resistência variável. Ele permite ajustar a voltagem ou a corrente em um circuito, permitindo controlar o fluxo de eletricidade.
+
+* Transistor:
+
+É um componente eletrônico que pode atuar como um interruptor controlado por um sinal elétrico ou amplificar um sinal elétrico. Ele desempenha um papel importante em circuitos eletrônicos, permitindo controlar o fluxo de corrente de acordo com as necessidades do circuito.
+
 
 # Diagrama da Fonte
 ![Diagrama da fonte no software Falstad](imagens/Circuito_falstad.png)
 
 [Link para o circuito no Falstad](https://tinyurl.com/yengesgj) 
 
-# Escolha de Componentes
+## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
+
 
 | Quantidade | Componente          | Valor   |
 |------------|---------------------|---------|
