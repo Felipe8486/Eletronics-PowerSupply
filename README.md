@@ -60,48 +60,50 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 | 1          | Resistor 1k         | R$0,18  |
 | 1          | Resistor 3k9        | R$0,38  |
 | 2          | Jumper macho x macho| R$13,58 |
-| Total      |                     | R$61,75 |
+| Total      |                     |R$127,81 |
 
 
 # Projeto Esquemático do PCB no Software Eagle
 ![Esquema do Eagle](imagens/eagle_circuito.jpg "Esquema do Eagle")
 
-## Contas
 
-### Tensão
-
-Tensão da entrada da fonte: 
-
-Tensão de pico da entrada da fonte: 
-
-Razão transformador: 
-
-Tensão pico após transformador: 
-
-Tensão pico após diodos: 
-
-Ripple de 10%: 
-
-Tensão mínima no circuito: 
-
-Tensão média: 
-
-
-
-### Corrente
-
-Corrente carga: 
-
-Corrente LED: 
-
-Corrente Zener: 
-
-Corrente potenciometro: 
-
-Corrente total: 
 
 ### Capacitor 
 
-C = () / () = 
+
+$$Ripple = \frac{Vs}{2 \cdot f \cdot C \cdot Req}$$
 
 
+Onde:
+
+- $Vs$ é a tensão de saída
+- $f$ é a frequência
+- $C$ é a capacitância
+- $Req$ é a resistência de carga
+
+Vamos substituir os valores fornecidos na fórmula:
+
+
+$$Ripple = \frac{23.506 V}{2 \cdot 120 Hz \cdot 680 \cdot 10^{-6} F \cdot 224.43 \Omega}$$
+
+
+Agora, vamos calcular isso:
+
+Primeiro, calcule o valor do denominador: 
+
+
+$$2 \cdot f \cdot C \cdot Req = 2 \cdot 120 Hz \cdot 680 \cdot 10^{-6} F \cdot 224.43 \Omega = 36.5$$
+
+
+Em seguida, divida a tensão de saída pelo valor calculado: 
+
+
+$$Ripple = \frac{23.506 V}{36.5} = 0.644 V$$
+
+
+Portanto, o ripple na saída da fonte de alimentação é de aproximadamente $$0.644 Volts.$$
+
+Porcentagem:
+$$\text{Porcentagem do Ripple} = \left(\frac{\text{Ripple}}{Vs}\right) \cdot 100$$
+
+$$\text{Porcentagem do Ripple} = \left(\frac{0.644 V}{23.506 V}\right) \cdot 100 = 2.73 \text{\\%}$$
