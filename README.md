@@ -9,6 +9,9 @@ O projeto solicitado na disciplina de [SSC0180] – Eletrônica para Computaçã
 # Objetivo
 Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capacidade de 100mA.
 
+# Video explicativo do falstad
+https://youtu.be/41Ks1huxu4A
+
 ## &#128161; Componentes utilizados:
 
 * Transformador:
