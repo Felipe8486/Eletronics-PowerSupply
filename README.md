@@ -41,7 +41,7 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 
 
 # Diagrama da Fonte
-![Diagrama da fonte no software Falstad](imagens/Circuito_falstad.png)
+![Diagrama da fonte no software Falstad](imagens/Circuito_falstad.png.png)
 
 [Link para o circuito no Falstad](https://tinyurl.com/yengesgj) 
 
