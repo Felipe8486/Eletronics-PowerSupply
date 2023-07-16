@@ -64,7 +64,9 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 
 
 # Projeto Esquemático do PCB no Software Eagle
-![Esquema do Eagle](imagens/eagle_circuito.jpg "Esquema do Eagle")
+![Esquema do Eagle](imagens/imagem-eagle-pcb.png "imagem-eagle-pcb.png")
+# Projeto Esquemático do circuito no Eagle
+![Esquema do Eagle](imagens/imagem-eagle-esquematico.png "imagem-eagle-esquematico.png")
 
 
 
