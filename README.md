@@ -50,8 +50,8 @@ São componentes usados para controlar o fluxo de corrente elétrica em um circu
 
 | Quantidade | Componente          | Valor   |
 |------------|---------------------|---------|
-| 1         | Transformador       | R$27,99 |
-| 1          | Ponte de Diodos     | R$3,67  |
+| 1         | Transformador       | R$63,99 |
+| 1          | Ponte de Diodos     | R$6,67  |
 | 1          | Capacitor           | R$1,10  |
 | 1          | LED                 | R$0,70  |
 | 1          | Diodo Zener         | R$0,19  |
